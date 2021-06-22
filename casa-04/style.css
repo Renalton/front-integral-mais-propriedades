@@ -1,0 +1,41 @@
+body {
+  background: #456392;
+  font-family: "Mulish", sans-serif;
+}
+div {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 608px;
+  margin: 30px auto;
+  text-align: center;
+  padding-top: 60px;
+}
+img {
+  border-radius: 50%;
+  border-color: black;
+  border: 16px solid #ecf3fc;
+  margin-bottom: 44px;
+}
+h1 {
+  font-size: 48px;
+  margin-bottom: 5px;
+}
+p {
+  font-size: 36px;
+}
+.seguidores {
+  margin-bottom: 0px;
+  margin-top: 92px;
+}
+.seguindo {
+  margin-top: 0px;
+  padding-bottom: 92px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 36px;
+  color: #131e30;
+  margin-top: 100px;
+  margin-bottom: 92px;
+}
